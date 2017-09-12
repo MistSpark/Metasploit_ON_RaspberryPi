@@ -16,7 +16,7 @@ This is how I did it:
 
 05- cd metasploit-framework
 
-06- apt install git-core postgresql curl nmap gem
+06- apt install git-core postgresql curl nmap gem libsqlite3-dev
 
 07- gem install wirble sqlite3 bundler
 
