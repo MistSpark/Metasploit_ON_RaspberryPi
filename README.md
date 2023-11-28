@@ -1,8 +1,6 @@
 # How to Install Metasploit On RaspberryPi
 
-Of course you can install Kali Linux on RaspberryPi, but I didn't do that, I don't use my RaspberryPi for hacking, but at some point I needed Metasploit Framework, so I had to install it.
-
-This is how I did it:
+While it's possible to install Kali Linux on a Raspberry Pi, I haven't done so myself. I don't use my Raspberry Pi for hacking purposes. However, there was a situation where I needed the Metasploit Framework, so I had to install it. Here's how I went about it:
 
 00- apt update && apt upgrade
 
